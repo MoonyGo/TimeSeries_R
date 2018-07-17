@@ -6,3 +6,5 @@ acf(data,48 )
 
 #ACF and PACF
 acf2(data, 48)
+
+#commit test
